@@ -18,3 +18,6 @@ Yes! You can view the code and look into it.
 
 **Should I run this on my Computer?**
 It's not recommended but you can. I recommend checking out a Discord Bot hosting. e.g. https://revivenode.com/discord.html, or any preferred hosting service.
+
+
+Any other questions? DM Me on Discord! `EndermanPvP#0001`.
