@@ -1,3 +1,6 @@
+**YOU NEED TO HAVE NODEJS 16+!**
+
+
 **HOW TO INSTALL**
 	Type `node install discord.js` in the file location of `index.js`.
 	
