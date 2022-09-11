@@ -10,12 +10,8 @@
 **How to install?**
   Type "node i discord.js" in the file location.
 **How to add commands?**
-  It's actually very simple. You can copy the last command or use this and put it below.
-`
-	if (command === 'Your Command') {
-		message.channel.send('Command is working.')
-	}
-`	
+  It's actually very simple. You can copy the last line of command.
+  
 **There is an error, What should I do?**
   You can DM me on Discord and send me the code. Discord: `EndermanPvP#0001`.
   
