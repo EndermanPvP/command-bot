@@ -7,8 +7,6 @@
 	
 **QUESTIONS:**
 
-**How to install?** Type "node i discord.js" in the file location. 
-
 **How to add commands?**
 It's actually very simple. You can copy the last line of command. 
 
