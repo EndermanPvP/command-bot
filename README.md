@@ -2,7 +2,7 @@
 
 
 **HOW TO INSTALL**
-	Type `node install discord.js` in the file location of `index.js`.
+	Type `npm i` to install.
 	
 **HOW TO START**
 	Type `node .` in the file location of `index.js`, **Once you've installed Packages.**.
