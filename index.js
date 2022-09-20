@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const prefix = '?';
-const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]});
+const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_PRESENCES", "GUILD_MEMBERS", "GUILD_MESSAGE_REACTIONS"]});
 
   client.on("ready", () => {
 	  console.log("Bot made by EndermanPvP#0001!", "Bot is online.")
