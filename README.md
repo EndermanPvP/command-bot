@@ -1,4 +1,4 @@
-[![discord](https://discord.com/api/guilds/1028255917361352764/embed.png)](https://discord.gg/E5gy5f39XM)
+[![discord](https://discord.com/api/guilds/1034911636944851024/embed.png)](https://discord.gg/E5gy5f39XM)
 
 **YOU NEED TO HAVE NODEJS 16+!**
 
