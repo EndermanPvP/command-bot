@@ -3,7 +3,7 @@ const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_
 const prefix = '?';
 
   client.on("ready", () => {
-	  console.log("Bot made by github.com/EndermanPvP"/*Do not remove credits.*/, "Bot is online.")
+	  console.log("The but is now online!", "Bot made by https://github.com/EndermanPvP"/*Do not remove credits*/)
   
   })
   
