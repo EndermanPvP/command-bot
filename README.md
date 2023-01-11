@@ -1,3 +1,4 @@
+# I'm aware this does not work at the moment, I do not have time to fix this so please open a issue to send new code or fork this.
 **NOEJS VERSION: 16+**
 
 
